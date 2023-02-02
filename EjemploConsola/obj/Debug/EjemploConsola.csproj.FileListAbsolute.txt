@@ -1,0 +1,7 @@
+C:\Projects\Repos\EjemploConsola\EjemploConsola\bin\Debug\EjemploConsola.exe.config
+C:\Projects\Repos\EjemploConsola\EjemploConsola\bin\Debug\EjemploConsola.exe
+C:\Projects\Repos\EjemploConsola\EjemploConsola\bin\Debug\EjemploConsola.pdb
+C:\Projects\Repos\EjemploConsola\EjemploConsola\obj\Debug\EjemploConsola.csprojAssemblyReference.cache
+C:\Projects\Repos\EjemploConsola\EjemploConsola\obj\Debug\EjemploConsola.csproj.CoreCompileInputs.cache
+C:\Projects\Repos\EjemploConsola\EjemploConsola\obj\Debug\EjemploConsola.exe
+C:\Projects\Repos\EjemploConsola\EjemploConsola\obj\Debug\EjemploConsola.pdb
